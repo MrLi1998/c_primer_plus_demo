@@ -1,4 +1,4 @@
-//2.4 nogood.c -- º¬ÓĞ´íÎóµÄ³ÌĞò
+//2.4 nogood.c -- ÂºÂ¬Ã“ÃÂ´Ã­ÃÃ³ÂµÃ„Â³ÃŒÃÃ²
 
 #include <stdio.h>
 int main(void)
@@ -8,7 +8,7 @@ int main(void)
 	n = 5;
 	n2 = n * n;
 	n3 = n2 * n2;
-	printf("n = %d, n sqared = %d, n cubed = %d\n", n, n2, n3)
+	printf("n = %d, n sqared = %d, n cubed = %d\n", n, n2, n3);
 	return 0;
 } 
 
